@@ -1,4 +1,5 @@
-###About Me
+About Me
+
 www.xor.me.uk 
 
 My name is Matt Brocklehurst, and I specialize in producing bespoke embedded firmware solutions for various platforms including ESP32, ARM, PIC, and Raspberry Pi Pico (RP2040). With years of experience in the field, I have developed a deep understanding of microcontroller architectures and embedded systems design principles. I am based in Manchester, UK.
